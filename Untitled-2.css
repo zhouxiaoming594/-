@@ -1,0 +1,18 @@
+/* CSS Document */
+.box{
+	width:1190px;
+	margin:0 auto;
+}
+#btn{
+	background:url(images/top_bg.png) no-repeat left top;
+	position:fixed;
+	left:50%;
+	bottom:30px;
+	width:40px;
+	height:40px;
+	margin-left:600px;
+	display:none;
+}
+#btn:hover{
+	background:url(images/top_bg.png) no-repeat 0px -40px;
+}
